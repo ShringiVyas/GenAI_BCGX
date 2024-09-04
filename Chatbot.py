@@ -10,7 +10,7 @@ client = Groq(
     api_key=(llama_key))
 with open("json_file.json", "r") as f:
     data = json.load(f)
-st.title('Financial Assistant')
+st.title('Finaciasst')
 
 
 input_text = st.text_input("Search the topic: ")
