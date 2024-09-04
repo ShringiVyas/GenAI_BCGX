@@ -1,0 +1,29 @@
+{
+    "Microsoft": {
+        "Year": "2021",
+        "Total Revenue": "168088",
+        "Net Income": "61271",
+        "Total Assets": "333779",
+        "Total Liabilities": "191791",
+        "Cash Flow from Operating Activities": "76740",
+        "Company": "Microsoft"
+    },
+    "Tesla": {
+        "Year": "2021",
+        "Total Revenue": "53821",
+        "Net Income": "5519",
+        "Total Assets": "62131",
+        "Total Liabilities": "30548",
+        "Cash Flow from Operating Activities": "11497",
+        "Company": "Tesla"
+    },
+    "Apple": {
+        "Year": "2021",
+        "Total Revenue": "365817",
+        "Net Income": "94680",
+        "Total Assets": "351002",
+        "Total Liabilities": "287912",
+        "Cash Flow from Operating Activities": "104038",
+        "Company": "Apple"
+    }
+}
